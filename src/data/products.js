@@ -7,7 +7,7 @@ export const PRODUCTS = [
     category: 'Cá biển',
     freshness: 'Đặt sáng giao chiều',
     desc: 'Làm sashimi, steak, nấu súp. Bảo quản kho lạnh -2°C.',
-    image: '🐟',
+    image: 'https://i.postimg.cc/xdKQShZ9/ca-hoi-nauy-tuoi.jpg',
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const PRODUCTS = [
     category: 'Cao cấp',
     freshness: 'Giao trong 12h',
     desc: 'Thịt thơm, ít xương, phù hợp nhà hàng cao cấp.',
-    image: '🐠',
+    image: 'https://i.postimg.cc/bwncQ4p5/catam3-4796.png',
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ export const PRODUCTS = [
     category: 'Nội địa',
     freshness: 'Tắm oxy liên tục',
     desc: 'Nguồn chăn nuôi hữu cơ, thích hợp cho món om dưa.',
-    image: '🐡',
+    image: 'https://i.postimg.cc/9FFQYmnJ/unnamed.png',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export const PRODUCTS = [
     category: 'Phổ thông',
     freshness: 'Đóng thùng cách nhiệt',
     desc: 'Giá mềm, thịt chắc. Phù hợp suất ăn công nghiệp.',
-    image: '🐟',
+    image: 'https://i.postimg.cc/sXzCwmwB/ca-ro-dong-giong-1.jpg',
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ export const PRODUCTS = [
     category: 'Cá biển',
     freshness: 'Ngâm đá khô ướp muối',
     desc: 'Đạt chuẩn sashimi, truy xuất nguồn gốc từng lô.',
-    image: '🐠',
+    image: 'https://i.postimg.cc/d1HxM9J0/ca-ngu-dai-duong-1.jpg',
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ export const PRODUCTS = [
     category: 'Chế biến sẵn',
     freshness: 'Đông lạnh IQF',
     desc: 'Lọc sẵn xương da, phù hợp bếp công nghiệp.',
-    image: '🐟',
+    image: 'https://i.postimg.cc/G2GxKJHB/ca-basa-phi-le-250g-202307251437203817.jpg',
   },
 ]
 

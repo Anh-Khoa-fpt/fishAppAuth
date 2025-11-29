@@ -19,9 +19,9 @@ const ProductModal = ({ product, isOpen, onClose }) => {
           ×
         </button>
         <div className="modal-body">
-          <div className="modal-image">
-            <span className="modal-icon">{product.image}</span>
-          </div>
+            <div className="product-image">
+             <img src={product.image} alt={product.name} />
+            </div>
           <div className="modal-info">
             <p className="modal-category">{product.category}</p>
             <h2 className="modal-name">{product.name}</h2>

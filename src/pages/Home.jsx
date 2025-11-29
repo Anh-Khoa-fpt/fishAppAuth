@@ -97,7 +97,9 @@ const Home = () => {
                 }}
                 style={{ cursor: 'pointer' }}
               >
-                <div className="product-image">{product.image}</div>
+                <div className="product-image">
+                  <img src={product.image} alt={product.name} />
+                </div>
                 <div className="product-header">
                   <p className="product-category">{product.category}</p>
                   <h3 className="product-name">{product.name}</h3>
