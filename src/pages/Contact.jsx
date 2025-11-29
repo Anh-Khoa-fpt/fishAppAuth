@@ -10,7 +10,7 @@ const contactCards = [
   },
   {
     title: 'Email hỗ trợ',
-    info: 'support@metrohcmc.xyz',
+    info: 'support@test.com',
     desc: 'Phản hồi trong 2h làm việc đối với mọi yêu cầu từ khách hàng.',
   },
   {
