@@ -43,7 +43,7 @@ const About = () => {
               <p>Thời gian giao tối đa</p>
             </div>
             <div>
-              <span>4.8/5</span>
+              <span>4/5</span>
               <p>Đánh giá khách hàng</p>
             </div>
           </div>
